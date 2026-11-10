@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Lewis Nguyen (@lewistnguyen) [he/him/his].
-- 🎓 I'm an undergraduate student currently in my third year of study at Denison University (Granville, Ohio, United States), double-majoring in Chemistry and Mathematics, 
+- 🎓 I'm a PhD student in Chemical Physics @ University of Minnesota Twin Cities, specializing in development of tools in electronic structure theory to improve physical accuracy and computational efficiency for simulation of difficult chemical systems 
 - 👀 I’m broadly interested in investigating the intersection of physics, chemistry and mathematics to answer unsolved questions of the natural world. I am also interested in how we could harness these tools to understand many facets of the human society, including democracy, modern languages, social interaction, and more.
 - 📫 Reach out to me at nguyen_h10 at denison.edu!
+- 🌐 Check out my personal website: [lewistnguyen.github.io](lewistnguyen.github.io)
 
 <!---
 lewistnguyen/lewistnguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
